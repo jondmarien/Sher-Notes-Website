@@ -1,2 +1,2 @@
-# Sheridan-Docu
-Sheridan Docs about classes I've taken.
+# Website for Notes
+Notes about classes I've taken.
